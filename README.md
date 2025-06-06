@@ -1,4 +1,4 @@
-# Task 8: VPN Setup and Privacy Test
+#VPN Setup and Privacy Test
 
 ## 🛡️ Objective
 This task aims to provide hands-on experience with using a Virtual Private Network (VPN) to protect online privacy and secure communications. It includes steps to install, configure, and test a VPN service.
